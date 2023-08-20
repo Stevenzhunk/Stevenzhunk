@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Becerra</h1>
-<h3 align="center">A passionate frontend developer from Venezuela living in Argentina</h3>
+<h3 align="center">A frontend developer from Venezuela living in Argentina</h3>
 
 - 👨‍💻 All of my projects are available at [https://luisbecerra.vercel.app](https://luisbecerra.vercel.app)
 
