@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Becerra</h1>
 # 💫 About Me:
-- 🌱 I’m currently learning more about **NextJS, Stripe**<br><br>- 👨‍💻 All of my projects are available at https://luisbecerra.vercel.app <br><br>- 📫 How to reach me **stvzbernelli@gmail.com**
+- 🌱 I’m currently learning more about **NextJS, Stripe**<br><br>- 👨‍💻 Last of my projects are available at https://luisbecerra.vercel.app <br><br>- 📫 How to reach me **stvzbernelli@gmail.com**
 
 
 ## 🌐 Socials:
