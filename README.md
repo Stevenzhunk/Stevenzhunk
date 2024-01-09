@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Becerra</h1>
-<h3 align="center">A Web Developer from Venezuela living in Argentina, living free 👨‍💻</h3>
+<h3 align="center">A Web Developer from Venezuela living in Argentina 👨‍💻</h3>
 
 - 🌱 I’m currently learning **NextJS, Stripe**
 
