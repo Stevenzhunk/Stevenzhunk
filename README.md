@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Becerra</h1>
-- 🌱 I’m currently on **NextJS, Stripe**<br><br>- 👨‍💻 Last of my projects are available at https://luisbecerra.vercel.app <br><br>- 📫 How to reach me **stvzbernelli@gmail.com**
+- 🌱 I’m currently on **NextJS, Stripe, MongoDB, AWS, TailwindCSS**<br><br>- 👨‍💻 Last of my projects are available at https://luisbecerra.vercel.app <br><br>- 📫 How to reach me **stvzbernelli@gmail.com**
 
 
 ## 🌐 Socials:
